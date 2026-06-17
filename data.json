@@ -1,0 +1,468 @@
+{
+  "updatedAt": "Inicial",
+  "source": "base",
+  "logs": [
+    {
+      "ok": true,
+      "msg": "Datos iniciales cargados. GitHub Actions actualizará data.json automáticamente."
+    }
+  ],
+  "matches": {
+    "A": [
+      [
+        "México",
+        "Sudáfrica",
+        2,
+        0
+      ],
+      [
+        "Corea del Sur",
+        "República Checa",
+        2,
+        1
+      ],
+      [
+        "República Checa",
+        "Sudáfrica",
+        null,
+        null
+      ],
+      [
+        "México",
+        "Corea del Sur",
+        null,
+        null
+      ],
+      [
+        "México",
+        "República Checa",
+        null,
+        null
+      ],
+      [
+        "Sudáfrica",
+        "Corea del Sur",
+        null,
+        null
+      ]
+    ],
+    "B": [
+      [
+        "Canadá",
+        "Bosnia y Herzegovina",
+        1,
+        1
+      ],
+      [
+        "Qatar",
+        "Suiza",
+        1,
+        1
+      ],
+      [
+        "Suiza",
+        "Bosnia y Herzegovina",
+        null,
+        null
+      ],
+      [
+        "Canadá",
+        "Qatar",
+        null,
+        null
+      ],
+      [
+        "Canadá",
+        "Suiza",
+        null,
+        null
+      ],
+      [
+        "Bosnia y Herzegovina",
+        "Qatar",
+        null,
+        null
+      ]
+    ],
+    "C": [
+      [
+        "Brasil",
+        "Marruecos",
+        1,
+        1
+      ],
+      [
+        "Haití",
+        "Escocia",
+        0,
+        1
+      ],
+      [
+        "Escocia",
+        "Marruecos",
+        null,
+        null
+      ],
+      [
+        "Brasil",
+        "Haití",
+        null,
+        null
+      ],
+      [
+        "Brasil",
+        "Escocia",
+        null,
+        null
+      ],
+      [
+        "Marruecos",
+        "Haití",
+        null,
+        null
+      ]
+    ],
+    "D": [
+      [
+        "Estados Unidos",
+        "Paraguay",
+        4,
+        1
+      ],
+      [
+        "Australia",
+        "Turquía",
+        2,
+        0
+      ],
+      [
+        "Estados Unidos",
+        "Australia",
+        null,
+        null
+      ],
+      [
+        "Turquía",
+        "Paraguay",
+        null,
+        null
+      ],
+      [
+        "Estados Unidos",
+        "Turquía",
+        null,
+        null
+      ],
+      [
+        "Paraguay",
+        "Australia",
+        null,
+        null
+      ]
+    ],
+    "E": [
+      [
+        "Alemania",
+        "Curazao",
+        7,
+        1
+      ],
+      [
+        "Costa de Marfil",
+        "Ecuador",
+        1,
+        0
+      ],
+      [
+        "Alemania",
+        "Costa de Marfil",
+        null,
+        null
+      ],
+      [
+        "Ecuador",
+        "Curazao",
+        null,
+        null
+      ],
+      [
+        "Alemania",
+        "Ecuador",
+        null,
+        null
+      ],
+      [
+        "Curazao",
+        "Costa de Marfil",
+        null,
+        null
+      ]
+    ],
+    "F": [
+      [
+        "Países Bajos",
+        "Japón",
+        2,
+        2
+      ],
+      [
+        "Suecia",
+        "Túnez",
+        5,
+        1
+      ],
+      [
+        "Países Bajos",
+        "Suecia",
+        null,
+        null
+      ],
+      [
+        "Túnez",
+        "Japón",
+        null,
+        null
+      ],
+      [
+        "Países Bajos",
+        "Túnez",
+        null,
+        null
+      ],
+      [
+        "Japón",
+        "Suecia",
+        null,
+        null
+      ]
+    ],
+    "G": [
+      [
+        "Bélgica",
+        "Egipto",
+        1,
+        1
+      ],
+      [
+        "Irán",
+        "Nueva Zelanda",
+        2,
+        2
+      ],
+      [
+        "Bélgica",
+        "Irán",
+        null,
+        null
+      ],
+      [
+        "Nueva Zelanda",
+        "Egipto",
+        null,
+        null
+      ],
+      [
+        "Bélgica",
+        "Nueva Zelanda",
+        null,
+        null
+      ],
+      [
+        "Egipto",
+        "Irán",
+        null,
+        null
+      ]
+    ],
+    "H": [
+      [
+        "España",
+        "Cabo Verde",
+        0,
+        0
+      ],
+      [
+        "Arabia Saudita",
+        "Uruguay",
+        1,
+        1
+      ],
+      [
+        "España",
+        "Arabia Saudita",
+        null,
+        null
+      ],
+      [
+        "Uruguay",
+        "Cabo Verde",
+        null,
+        null
+      ],
+      [
+        "España",
+        "Uruguay",
+        null,
+        null
+      ],
+      [
+        "Cabo Verde",
+        "Arabia Saudita",
+        null,
+        null
+      ]
+    ],
+    "I": [
+      [
+        "Francia",
+        "Senegal",
+        null,
+        null
+      ],
+      [
+        "Irak",
+        "Noruega",
+        null,
+        null
+      ],
+      [
+        "Francia",
+        "Irak",
+        null,
+        null
+      ],
+      [
+        "Noruega",
+        "Senegal",
+        null,
+        null
+      ],
+      [
+        "Francia",
+        "Noruega",
+        null,
+        null
+      ],
+      [
+        "Senegal",
+        "Irak",
+        null,
+        null
+      ]
+    ],
+    "J": [
+      [
+        "Argentina",
+        "Argelia",
+        null,
+        null
+      ],
+      [
+        "Austria",
+        "Jordania",
+        null,
+        null
+      ],
+      [
+        "Argentina",
+        "Austria",
+        null,
+        null
+      ],
+      [
+        "Jordania",
+        "Argelia",
+        null,
+        null
+      ],
+      [
+        "Argentina",
+        "Jordania",
+        null,
+        null
+      ],
+      [
+        "Argelia",
+        "Austria",
+        null,
+        null
+      ]
+    ],
+    "K": [
+      [
+        "Portugal",
+        "RD Congo",
+        null,
+        null
+      ],
+      [
+        "Uzbekistán",
+        "Colombia",
+        null,
+        null
+      ],
+      [
+        "Portugal",
+        "Uzbekistán",
+        null,
+        null
+      ],
+      [
+        "Colombia",
+        "RD Congo",
+        null,
+        null
+      ],
+      [
+        "Portugal",
+        "Colombia",
+        null,
+        null
+      ],
+      [
+        "RD Congo",
+        "Uzbekistán",
+        null,
+        null
+      ]
+    ],
+    "L": [
+      [
+        "Inglaterra",
+        "Croacia",
+        null,
+        null
+      ],
+      [
+        "Ghana",
+        "Panamá",
+        null,
+        null
+      ],
+      [
+        "Inglaterra",
+        "Ghana",
+        null,
+        null
+      ],
+      [
+        "Panamá",
+        "Croacia",
+        null,
+        null
+      ],
+      [
+        "Inglaterra",
+        "Panamá",
+        null,
+        null
+      ],
+      [
+        "Croacia",
+        "Ghana",
+        null,
+        null
+      ]
+    ]
+  }
+}
