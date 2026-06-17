@@ -1,10 +1,14 @@
 {
-  "updatedAt": "Inicial",
-  "source": "base",
+  "updatedAt": "2026-06-17T13:36:37.613Z",
+  "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 0",
   "logs": [
     {
       "ok": true,
-      "msg": "Datos iniciales cargados. GitHub Actions actualizará data.json automáticamente."
+      "msg": "OpenWorldCup2026 consultado. Marcadores aplicados: 0"
+    },
+    {
+      "ok": false,
+      "msg": "TheSportsDB: no se encontró liga FIFA World Cup"
     }
   ],
   "matches": {
