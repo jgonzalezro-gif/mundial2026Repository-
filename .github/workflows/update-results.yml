@@ -2,12 +2,15 @@ name: Actualizar resultados Mundial 2026
 
 on:
   schedule:
-    # Cada 30 minutos. GitHub usa hora UTC.
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: actualizar-resultados-mundial-2026
+  cancel-in-progress: false
 
 jobs:
   update-results:
@@ -24,14 +27,19 @@ jobs:
         with:
           node-version: 22
 
-      - name: Actualizar data.json desde APIs
+      - name: Sincronizar rama main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+
+      - name: Actualizar data.json desde football-data.org
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
         run: node update.js
 
       - name: Guardar cambios si data.json cambió
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add data.json
 
           if git diff --cached --quiet; then
