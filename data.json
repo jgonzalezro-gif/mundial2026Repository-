@@ -1,14 +1,18 @@
 {
-  "updatedAt": "2026-06-17T13:36:37.613Z",
-  "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 0",
+  "updatedAt": "2026-06-17T13:57:24.027Z",
+  "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 7",
   "logs": [
     {
       "ok": true,
-      "msg": "OpenWorldCup2026 consultado. Marcadores aplicados: 0"
+      "msg": "ESPN calendario Mundial 2026 consultado. Marcadores aplicados: 0"
     },
     {
-      "ok": false,
-      "msg": "TheSportsDB: no se encontró liga FIFA World Cup"
+      "ok": true,
+      "msg": "101greatgoals calendario Mundial 2026 consultado. Marcadores aplicados: 7"
+    },
+    {
+      "ok": true,
+      "msg": "OpenWorldCup2026 GitHub consultado. Marcadores aplicados: 0"
     }
   ],
   "matches": {
@@ -72,8 +76,9 @@
       [
         "Canadá",
         "Qatar",
-        null,
-        null
+        3,
+        5,
+        "101greatgoals calendario Mundial 2026"
       ],
       [
         "Canadá",
@@ -160,8 +165,9 @@
       [
         "Paraguay",
         "Australia",
-        null,
-        null
+        11,
+        2,
+        "101greatgoals calendario Mundial 2026"
       ]
     ],
     "E": [
@@ -370,8 +376,9 @@
       [
         "Argentina",
         "Austria",
-        null,
-        null
+        0,
+        15,
+        "101greatgoals calendario Mundial 2026"
       ],
       [
         "Jordania",
@@ -402,14 +409,16 @@
       [
         "Uzbekistán",
         "Colombia",
-        null,
-        null
+        3,
+        0,
+        "101greatgoals calendario Mundial 2026"
       ],
       [
         "Portugal",
         "Uzbekistán",
-        null,
-        null
+        1,
+        1,
+        "101greatgoals calendario Mundial 2026"
       ],
       [
         "Colombia",
@@ -420,8 +429,9 @@
       [
         "Portugal",
         "Colombia",
-        null,
-        null
+        1,
+        1,
+        "101greatgoals calendario Mundial 2026"
       ],
       [
         "RD Congo",
@@ -440,8 +450,9 @@
       [
         "Ghana",
         "Panamá",
-        null,
-        null
+        16,
+        1,
+        "101greatgoals calendario Mundial 2026"
       ],
       [
         "Inglaterra",
