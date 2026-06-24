@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-24T10:34:38.789Z",
-  "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 7",
+  "updatedAt": "2026-06-24T18:13:10.873Z",
+  "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 14",
   "logs": [
     {
       "ok": true,
-      "msg": "ESPN calendario Mundial 2026 consultado. Marcadores aplicados: 0"
+      "msg": "ESPN calendario Mundial 2026 consultado. Marcadores aplicados: 7"
     },
     {
       "ok": true,
@@ -76,7 +76,7 @@
       [
         "Canadá",
         "Qatar",
-        2,
+        5,
         5,
         "101greatgoals calendario Mundial 2026"
       ],
