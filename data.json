@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-08T22:39:48.715Z",
-  "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 7",
+  "updatedAt": "2026-07-09T10:39:08.562Z",
+  "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 15",
   "logs": [
     {
       "ok": true,
-      "msg": "ESPN calendario Mundial 2026 consultado. Marcadores aplicados: 0"
+      "msg": "ESPN calendario Mundial 2026 consultado. Marcadores aplicados: 8"
     },
     {
       "ok": true,
       "msg": "101greatgoals calendario Mundial 2026 consultado. Marcadores aplicados: 7"
     },
     {
-      "ok": false,
-      "msg": "OpenWorldCup2026 GitHub falló: HTTP 429 - https://raw.githubusercontent.com/rezarahiminia/worldcup2026/main/football.matches.json?ts=1783550385674"
+      "ok": true,
+      "msg": "OpenWorldCup2026 GitHub consultado. Marcadores aplicados: 0"
     }
   ],
   "matches": {
@@ -76,8 +76,8 @@
       [
         "Canadá",
         "Qatar",
-        12,
         4,
+        37,
         "101greatgoals calendario Mundial 2026"
       ],
       [
