@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-13T18:06:23.576Z",
-  "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 7",
+  "updatedAt": "2026-07-13T21:35:38.909Z",
+  "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 15",
   "logs": [
     {
       "ok": true,
-      "msg": "ESPN calendario Mundial 2026 consultado. Marcadores aplicados: 0"
+      "msg": "ESPN calendario Mundial 2026 consultado. Marcadores aplicados: 8"
     },
     {
       "ok": true,
@@ -306,7 +306,7 @@
       [
         "Uruguay",
         "Cabo Verde",
-        30,
+        26,
         1,
         "ESPN calendario Mundial 2026"
       ],
