@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T07:27:05.778Z",
+  "updatedAt": "2026-08-16T07:54:20.484Z",
   "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 7",
   "logs": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "ok": false,
-      "msg": "OpenWorldCup2026 GitHub falló: HTTP 404 - https://raw.githubusercontent.com/rezarahiminia/worldcup2026/main/football.matches.json?ts=1786865225669"
+      "msg": "OpenWorldCup2026 GitHub falló: HTTP 404 - https://raw.githubusercontent.com/rezarahiminia/worldcup2026/main/football.matches.json?ts=1786866860441"
     }
   ],
   "matches": {
