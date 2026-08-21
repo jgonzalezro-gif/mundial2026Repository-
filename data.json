@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-20T23:49:07.731Z",
+  "updatedAt": "2026-08-21T01:03:34.123Z",
   "source": "GitHub Actions automático. Total de marcadores aplicados en esta ejecución: 7",
   "logs": [
     {
-      "ok": true,
-      "msg": "ESPN calendario Mundial 2026 consultado. Marcadores aplicados: 0"
+      "ok": false,
+      "msg": "ESPN calendario Mundial 2026 falló: fetch failed"
     },
     {
       "ok": true,
@@ -12,7 +12,7 @@
     },
     {
       "ok": false,
-      "msg": "OpenWorldCup2026 GitHub falló: HTTP 404 - https://raw.githubusercontent.com/rezarahiminia/worldcup2026/main/football.matches.json?ts=1787269747675"
+      "msg": "OpenWorldCup2026 GitHub falló: HTTP 404 - https://raw.githubusercontent.com/rezarahiminia/worldcup2026/main/football.matches.json?ts=1787274213866"
     }
   ],
   "matches": {
